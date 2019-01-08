@@ -1,22 +1,23 @@
-baseURL = "localhost:1313"
+baseURL = "/"
 languageCode = "en-us"
-title = "My Portfolio Website"
+title = "Alexia Aslan Portfolio"
 theme = "hugo-lodi-theme"
+publishDir = "../alexiaaslan.github.io"
 googleAnalytics = "UA-XXXXXXXX-Y"
 
 [params]
     theme_color = "#574CDD"
-    description = "Portfolio of Alexis Collado, UX Designer"
+    description = "Portfolio of Alexia Aslan, Data Anayst"
     description_photo = "portfolio.jpg"
     favicon = "favicon.png"
     logo = "logo.png"
-    email = "myemail@gmail.com"
-    facebook = "lex.collado"
-    twitter = "lexiscollado"
-    dribbble = "alexiscollado"
-    linkedin = "https://www.linkedin.com/in/alexander-hans-collado-jr-9444146a"
-    medium = "ahvccollado"
-    github = "github"
+    email = "alexiaaslan@gmail.com"
+    facebook = ".collado"
+    twitter = ""
+    dribbble = ""
+    linkedin = "https://www.linkedin.com/in/alexiaaslan"
+    medium = ""
+    github = "https://github.com/alexiaaslan"
 
 [params.nav]
     enable = true
