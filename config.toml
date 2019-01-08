@@ -12,11 +12,11 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     favicon = "favicon.png"
     logo = "logo.png"
     email = "alexiaaslan@gmail.com"
-    #facebook = ".collado"
-    #twitter = ""
-    #dribbble = ""
+    facebook = false
+    twitter = false
+    dribbble = false
     linkedin = "https://www.linkedin.com/in/alexiaaslan"
-    #medium = ""
+    medium = false
     github = "https://github.com/alexiaaslan"
 
 [params.nav]
