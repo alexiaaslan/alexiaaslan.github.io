@@ -6,17 +6,17 @@ publishDir = "../alexiaaslan.github.io"
 googleAnalytics = "UA-XXXXXXXX-Y"
 
 [params]
-    theme_color = "#574CDD"
+    theme_color = "#012296"
     description = "Portfolio of Alexia Aslan, Data Anayst"
     description_photo = "portfolio.jpg"
     favicon = "favicon.png"
     logo = "logo.png"
     email = "alexiaaslan@gmail.com"
-    facebook = ".collado"
-    twitter = ""
-    dribbble = ""
+    #facebook = ".collado"
+    #twitter = ""
+    #dribbble = ""
     linkedin = "https://www.linkedin.com/in/alexiaaslan"
-    medium = ""
+    #medium = ""
     github = "https://github.com/alexiaaslan"
 
 [params.nav]
