@@ -1,7 +1,8 @@
-baseURL = "localhost:1313"
+baseURL = "/"
 languageCode = "en-us"
 title = "My Portfolio Website"
 theme = "hugo-lodi-theme"
+publishDir = "../alexiaaslan.github.io"
 googleAnalytics = "UA-XXXXXXXX-Y"
 
 [params]
