@@ -6,7 +6,7 @@ publishDir = "../alexiaaslan.github.io"
 googleAnalytics = "UA-XXXXXXXX-Y"
 
 [params]
-    theme_color = "#012296"
+    theme_color = "#012296" # mudar de #5A54AF
     description = "Portfolio of Alexia Aslan, Data Analyst"
     description_photo = "portfolio.jpg"
     favicon = "favicon.png"
@@ -26,18 +26,18 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     enable = true
     avatar = "avatar.jpg"
     subtitle = "Alexia Aslan - Data Analyst"
-    hero_right = ["**Currently doing consultancy work at UX Society. Previously doing UX and product at Agoda in Bangkok, Thailand as an international intern.**", "I founded [User Experience Society](https://www.facebook.com/UXSoc/), the first student UX organization in the Philippines. For two years, we've had 20+ events with 30+ speakers for over 300 members and 500+ attendees. We've expanded to [California](https://www.facebook.com/profile.php?id=245708449193012) this year.", "I do a bit of writing as well. [Here's an article with a total of 21,000+ views to InVision & Medium](http://blog.invisionapp.com/ux-internship-wisdom/) talking about 50 things I learned spending 3 years as a UX intern.", "I help cultivate the design community in Manila too. I'm the youngest core member of [UX Philippines](https://www.facebook.com/groups/uxphilippines/) and I moderated a panel with some cool people for the [UXPH 2017 Conference](https://www.uxphilippines.com).", "I'm finishing my Bachelor's degree in Management Information Systems at the Ateneo de Manila University, expecting to graduate in 2018."]
+    hero_right = ["Hello! My name is Alexia and I live in São Paulo, Brazil. I hold a bachelor’s degree in Social Sciences by the University of São Paulo (USP) but my main interest is in data analysis.", "On my first year as an undergrad, I got a job as a research assistant for a research center in Political Sciences, where I had my first contact with large databases. This was the incentive required to start learning more effective ways to deal with data, a path in which I stumbled upon R and made my side project to learn it during my bachelor years and after graduation, my full-time effort.", "I have worked in academia, public and private sector, being this last one where I am currently. Right now, my job is within the field of User Acquisition in a Brazilian mobile game startup.", "I speak Portuguese, English, Spanish and some Dutch and my preferred coding language is R, however I have also worked with SQL, Python, HTML and CSS.", "Besides data and coding, I also enjoy reading, video-games, riding my bike and photography."]
     #resume = "ResumeCollado.pdf"
 
 [params.process]
     enable = true
-    title = "My Process"
-    subtitle = "Full Process Design"
+    title = "Competences"
+    subtitle = "My skills in data analysis"
 
 [params.case_studies]
     enable = true
-    title = "Case Studies"
-    subtitle = "Selected Works"
+    title = "Projects"
+    subtitle = "Works I've been part of"
 
 [params.footer]
     enable = true
