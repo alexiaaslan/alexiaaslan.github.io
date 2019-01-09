@@ -26,16 +26,16 @@ googleAnalytics = "UA-XXXXXXXX-Y"
     enable = true
     avatar = "avatar.jpg"
     subtitle = "Alexia Aslan - Data Analyst"
-    hero_right = ["Hello! My name is Alexia and I live in São Paulo, Brazil. I hold a bachelor’s degree in Social Sciences by the University of São Paulo (USP) but my main interest is in data analysis.", "On my first year as an undergrad, I got a job as a research assistant for a research center in Political Sciences, where I had my first contact with large databases. This was the incentive required to start learning more effective ways to deal with data, a path in which I stumbled upon R and made my side project to learn it during my bachelor years and after graduation, my full-time effort.", "I have worked in academia, public and private sector, being this last one where I am currently. Right now, my job is within the field of User Acquisition in a Brazilian mobile game startup.", "I speak Portuguese, English, Spanish and some Dutch and my preferred coding language is R, however I have also worked with SQL, Python, HTML and CSS.", "Besides data and coding, I also enjoy reading, video-games, riding my bike and photography."]
+    hero_right = ["Hello! My name is Alexia and I live in São Paulo, Brazil. I hold a bachelor’s degree in Social Sciences by the University of São Paulo (USP) but my main interest is in data analysis.", "On my first year as an undergrad, I got a job as a research assistant for a Political Sciences research center, where I had an introduction to large databases. This was the incentive required to start learning more effective ways to deal with data, a path in which I stumbled upon R and made my side project to learn it during my bachelor years and after graduation, my full-time effort.", "I have worked in academia, public and private sector, being this last one where I am currently. Right now, my job is within the field of User Acquisition in a Brazilian mobile game startup.", "I speak Portuguese, English, Spanish and some Dutch and my preferred coding language is R, however I have also worked with SQL, Python, HTML and CSS.", "Besides data and coding, I enjoy reading, video-games, riding my bike and photography."]
     #resume = "ResumeCollado.pdf"
 
 [params.process]
-    enable = true
+    enable = false
     title = "Competences"
     subtitle = "My skills in data analysis"
 
 [params.case_studies]
-    enable = true
+    enable = false
     title = "Projects"
     subtitle = "Works I've been part of"
 
